@@ -1,7 +1,7 @@
 # Личный проект «Что посмотреть» [![Build status][travis-image]][travis-url]
 
 * Студент: [Arina Livanenkova](https://up.htmlacademy.ru/react/5/user/882513).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Тимоновский].
 
 ---
 
